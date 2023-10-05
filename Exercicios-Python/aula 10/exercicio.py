@@ -7,3 +7,6 @@ for i in range(0, len(numeros)):
 
 # 0 antes do len significa de qual índice ele vai
 # começar a contar
+
+#as tuplas precisam ter a mesma quantidade de índices caso forem 
+# multiplicados por exemplo, se não dá erro

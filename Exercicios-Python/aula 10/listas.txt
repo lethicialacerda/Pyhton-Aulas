@@ -6,3 +6,5 @@ e o que esta dentro do parenteses seriam o seu valor.
 *Tupla é uma variavel complexa.
 
 [] = retorna o valor do indice
+tuplas não podem ser manipuladas
+nem adiconar valor e nem retirar valor
