@@ -29,3 +29,10 @@ indice_fim = 6    # O índice de fim da sublista
 for i in range(indice_inicio, indice_fim + 1):
     sublista.append(lista_original[i])
 print("Sublista:", sublista)
+
+sublista1 = [1, 2, 3]
+sublista2 = ['a', 'b', 'c']
+sublista3 = [True, False, True]
+
+lista_principal = [sublista1, sublista2, sublista3]
+print("Lista Principal:", lista_principal)
